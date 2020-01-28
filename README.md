@@ -13,7 +13,7 @@ Make is used to build the program using nasm and gcc. On Windows systems,
 ## Installing
 
 **LINUX**
-The program will compile using the 'make' command and will execute with './GameofLife'.
+* The program will compile using the 'make' command and will execute with './GameofLife'.
 
 **WINDOWS**
 * Download and install GnuWin32 from http://gnuwin32.sourceforge.net/packages/make.htm
