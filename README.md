@@ -1,6 +1,6 @@
 # Conway's Game of Life (64-Bit NASM)
 
-This is a simple, configurable version of "Conway's Game of Life", with a simple start screen and a generation counter."
+This is a simple, configurable version of "Conway's Game of Life", with a simple start screen and a generation counter.
 
 ## Getting Started
 
