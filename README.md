@@ -23,4 +23,4 @@ Make is used to build the program using nasm and gcc.
 
 ## Authors
 
-* **Addison Ryken** - *Initial implementation* - [ajryken] (https://github.com/ajryken)
+* **Addison Ryken** - *Initial implementation* - [ajryken](https://github.com/ajryken)
